@@ -1,0 +1,2 @@
+f783f00ff772b8e809f6a280aff186cc138ec08b6e331b31a44f9084fcc3e61b  MapCraft-0.1.0-macOS-arm64.pkg
+5fb7a1ffddea594697734aa89d745579d5c15ea46a1324a8278cd4ddc91635fc  MapCraft-0.1.0-macOS-arm64.dmg

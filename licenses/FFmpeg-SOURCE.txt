@@ -1,0 +1,8 @@
+FFmpeg 9.0.2, unverändert, LGPL-2.1-or-later.
+Quellcode: https://ffmpeg.org/releases/ffmpeg-9.0.2.tar.xz
+sha256 8c3850283eb25fa026482078a04051e0be17347b09ef81a0849bec15a96e002e
+Konfiguration:
+"--prefix=target/ffmpeg-lgpl --install-name-dir='@rpath' --enable-shared --disable-static --disable-programs --disable-doc --disable-debug --enable-videotoolbox --enable-audiotoolbox --disable-sdl2 --disable-xlib --disable-libxcb --extra-cflags='-mmacosx-version-min=13.0' --extra-ldflags='-mmacosx-version-min=13.0'"
+
+Die Bibliotheken liegen in MapCraft.app/Contents/Frameworks und können
+durch eigene, ABI-kompatible Builds ersetzt werden.
