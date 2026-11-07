@@ -51,6 +51,12 @@ at the desk, and stable in live operation.
 
 ![Live shader editor with parameters in the inspector](screenshots/3-shader.png)
 
+## User manual
+
+A step-by-step manual (German, 91 pages, PDF) walks through the interface,
+from installation to show operation:
+[`docs/MapCraft-Handbuch-0.1.0.pdf`](docs/MapCraft-Handbuch-0.1.0.pdf).
+
 ## Requirements
 
 - A Mac with Apple Silicon (M1 or newer)
